@@ -1,0 +1,30 @@
+{
+  "name": "blogmicroservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "data-uri-to-buffer": "^4.0.0",
+    "express": "^4.18.1",
+    "fetch-blob": "^3.1.5",
+    "formdata-polyfill": "^4.0.10",
+    "node-domexception": "^1.0.0",
+    "node-fetch": "^3.2.6",
+    "web-streams-polyfill": "^3.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/informach/BlogMicroservices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/informach/BlogMicroservices/issues"
+  },
+  "homepage": "https://github.com/informach/BlogMicroservices#readme"
+}
